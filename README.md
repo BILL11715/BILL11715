@@ -3,7 +3,7 @@
 **Data Marketing Analyst & IA** basé à Lyon. Je relie la data, l'IA et la performance digitale pour livrer des outils concrets : dashboards, API, modèles NLP, automatisations et stratégie SEO.
 
 - 🎓 Master IA & Data (IA School Lyon / Nexa Digital School)
-- 💼 Alternance Data Marketing & IA chez KOHE Management (2024-2026)
+- 💼 2 ans d'alternance Data Marketing & IA (KOHE Management, 2024-2026), après des postes de chef de projet digital et de développeur backend
 - 🚀 Fondateur de [SEO Radius](https://seoradius.fr), un outil SEO que j'ai conçu et que je commercialise
 - 🔎 **Ouvert à un CDI Data / IA à partir de septembre 2026**
 
